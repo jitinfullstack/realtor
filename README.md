@@ -1,3 +1,13 @@
+## Realtor Next.js Application
+
+## Demo
+
+https://xyz.com
+
+![Real-Estate](https://user-images.githubusercontent.com/93995641/172560473-e4d696ea-d9e7-421e-82e7-5dbdd7de4667.png)
+
+![Real-Estate Search](https://user-images.githubusercontent.com/93995641/172560487-39969e3a-33a5-4073-81aa-d017155c937b.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
