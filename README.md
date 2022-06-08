@@ -2,11 +2,11 @@
 
 ## Demo
 
-### Home
+### Home Page
 
 ![Real-Estate](https://user-images.githubusercontent.com/93995641/172560473-e4d696ea-d9e7-421e-82e7-5dbdd7de4667.png)
 
-### Search
+### Search Page
 
 ![Real-Estate Search](https://user-images.githubusercontent.com/93995641/172560487-39969e3a-33a5-4073-81aa-d017155c937b.png)
 
