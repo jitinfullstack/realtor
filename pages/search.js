@@ -1,4 +1,5 @@
 import { useState } from 'react';
+// import { useEffect } from 'react/cjs/react.development';
 import { useRouter } from 'next/router';
 import Image from 'next/image'
 import { Flex, Box, Text, Icon } from '@chakra-ui/react';
